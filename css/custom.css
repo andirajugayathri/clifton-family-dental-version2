@@ -4053,6 +4053,10 @@ footer.main-footer{
 	.about-us{
 		padding: 50px 0px 0px 0px;
 	}
+	.aboutus-home{
+		padding: 0px!important;
+	}
+
 
 	.about-image{
 		max-width: 560px;
@@ -5728,7 +5732,7 @@ footer.main-footer{
 			text-align: left!important;
 			}
 			.payment-options{
-			padding: 50px 0;
+			padding: 50px 0!important;
 		}
 			
 		}
